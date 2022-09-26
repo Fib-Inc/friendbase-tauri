@@ -1,4 +1,4 @@
-# This is the same thing as the real friendbase but the diff is that this is for the desktop app and mobile app so i am gonna copy the same stuff from the real fib here :)
+# This is the same thing as the real friendbase but the diff is that this is for the desktop app and mobile app so i am gonna copy the same stuff from the real fib here :) but with a few changes see the last part to get the idea
 # Friendbase.
 Friendbase is a Website (works best on mobile, so our team are making the app version as you may read this).
 The Kind of website that connects people made yours truely by the people. I will say that We here at FIB inc. are very welcome of all the people who sign up for this app and post their stuff here.
