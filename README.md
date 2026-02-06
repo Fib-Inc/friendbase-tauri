@@ -36,11 +36,9 @@ __IF__ you have VS's git working use that to commit changed and to make PRs foll
 ### __Contact us we are not *always* busy __:
   1) Aradhy-Shaswat : { <br />
   Gmail : "info@friendbase.tech", <br />
-  Discord : "Arsh_DEV#7525", <br />
-  Phone : "+91 7903950219 <br />
+  Discord : "axshyyy", <br />
   } , <br />
   2) Armaan : { <br />
   Gmail : "twlightzonehelp@gmail.com", <br />
-  Discord : "Twlight_zone#7037", <br />
-  Phone : "+91 9334153403" <br />
+  Discord : "twlight_zon", <br />
   }
